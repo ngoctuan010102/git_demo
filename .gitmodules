@@ -1,0 +1,3 @@
+[submodule "path/to/module1"]
+	path = path/to/module1
+	url = https://github.com/ngoctuan010102/demoGIT.git
